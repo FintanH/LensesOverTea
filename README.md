@@ -1,2 +1,1 @@
-# LensesOverTea
-Learning Lenses
+# LensOverTea
